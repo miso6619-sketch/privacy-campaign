@@ -40,10 +40,9 @@
 - CSS
 - JavaScript
 - Photoshop
-- Illustrator
-- Premiere Pro
+- after effect
 
 ---
 
 ## 🔗 사이트 바로가기
-👉 사이트 주소 입력
+👉 [REAL or FAKE](https://miso6619-sketch.github.io/privacy-campaign/)
